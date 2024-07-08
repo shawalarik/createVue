@@ -1,0 +1,7 @@
+{
+    "project_directory": "my_vue_project",
+    "dependencies": [
+        "vue-router@4",
+        "pinia"
+    ]
+}
